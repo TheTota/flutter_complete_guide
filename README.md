@@ -1,6 +1,7 @@
 # flutter_complete_guide
 
-A new Flutter project.
+First Flutter project for the Udemy Flutter course.
+It's supposed to be a quizz app :-)
 
 ## Getting Started
 
